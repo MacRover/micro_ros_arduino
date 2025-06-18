@@ -26,6 +26,14 @@ control_msgs/PointHead.action
 control_msgs/QueryCalibrationState.srv
 control_msgs/QueryTrajectoryState.srv
 control_msgs/SingleJointPosition.action
+custom_interfaces/CANraw.msg
+custom_interfaces/CANstamped.msg
+custom_interfaces/RadStatus.msg
+custom_interfaces/SwerveModule.msg
+custom_interfaces/SwerveModulePulse.msg
+custom_interfaces/SwerveModulesList.msg
+custom_interfaces/ViperCardStatus.msg
+custom_interfaces/ViperStatus.msg
 data/Test.action
 data/Test.msg
 data/Test.srv
